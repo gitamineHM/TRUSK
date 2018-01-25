@@ -1,0 +1,17 @@
+{
+  "name": "Trusk",
+  "version": "1.0.0",
+  "description": "Trusk CLI Bot",
+  "main": "tool.js",
+  "author": "Amine HM",
+  "scripts": {
+    "test": "$"
+  },
+  "author": "Amine HM",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.5.1",
+    "inquirer": "^5.0.0",
+    "redis": "^2.8.0"
+  }
+}
